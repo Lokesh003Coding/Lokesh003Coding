@@ -3,11 +3,7 @@
 <h3 align="left">I am a Software Engineer at Motorola Mobility India Pvt Ltd </h3>
 
 
-
-
-  
-</a>
-<a href="https://app.daily.dev/Lokesh003Coding"><img src="https://api.daily.dev/devcards/265bb08e3c0a452fbc529e4c63e393d6.png?r=zdf" width="320" alt="Lokesh Ramchandani's Dev Card"/></a> <br>
+<a href="https://app.daily.dev/Lokesh003Coding"><img src="https://api.daily.dev/devcards/265bb08e3c0a452fbc529e4c63e393d6.png?r=zdf" align="right" width="300" alt="Lokesh Ramchandani's Dev Card"/></a><br>
 
 
 - :office: &nbsp;I'm currently working at **Motorola Mobility India Pvt Ltd**
