@@ -222,4 +222,4 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/lokesh-ramchandani-030535149"Lokesh Ramchandani LinkedIn"
+[linkedin]: https://www.linkedin.com/in/lokesh-ramchandani-030535149 "Lokesh Ramchandani LinkedIn"
